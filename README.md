@@ -12,4 +12,6 @@ git clone https://github.com/Conjuringil/Enola.git
 If there are any issues or suggestions please dm me on discord, 𝙞𝙡.#9999, or make an issue on github.
 
 # Images
-![Preview](./Previews/FullPreviewv2.png)
+![Preview](./Preview/1.png)
+![Preview](./Preview/2.png)
+![Preview](./Preview/3.png)
