@@ -533,3 +533,7 @@ theme-dark,
 .theme-dark .bar-2Qqk5Z {
     background-color: var(--background-secondary);
 }
+
+.grid-1nZz7S.hasThumbnail-3FJf1w {
+    display: none;
+}
