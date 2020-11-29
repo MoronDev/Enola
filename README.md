@@ -1,11 +1,17 @@
-# Splendid
+# Enola
 A theme for powercord.
 
 # How to use
 Simply just clone the repo in your themes folder, /powercord/src/Powercord/themes, after that just apply it.
-```
-git clone https://github.com/Conjuringil/Splendid.git
+
+## With text on left.
 ```
 
-# Issues
-If there are any issues please dm me on discord, 𝙞𝙡.#9999, or make an issue on github.
+```
+## Without text on right.
+```
+
+```
+
+# Issues/Suggestions
+If there are any issues or suggestions please dm me on discord, 𝙞𝙡.#9999, or make an issue on github.
