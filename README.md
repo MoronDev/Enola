@@ -13,5 +13,3 @@ If there are any issues or suggestions please dm me on discord, 𝙞𝙡.#9999, 
 
 # Images
 ![Preview](./Preview/1.png)
-![Preview](./Preview/2.png)
-![Preview](./Preview/3.png)
