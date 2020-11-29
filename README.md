@@ -4,7 +4,7 @@ A theme for powercord.
 # How to use
 Simply just clone the repo in your themes folder, /powercord/src/Powercord/themes, after that just apply it.
 
-## With text on left.
+## With text on right.
 ```
 
 ```
