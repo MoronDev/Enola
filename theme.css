@@ -537,3 +537,109 @@ theme-dark,
 .grid-1nZz7S.hasThumbnail-3FJf1w {
     display: none;
 }
+
+.theme-dark .option-96V44q.selected-rZcOL- {
+    background-color: #3F778A;
+}
+
+.resultsGroup-r_nuzN {
+    background-color: var(--background-primary);
+}
+
+.theme-dark .option-96V44q:after {
+    display: none;
+}
+
+.body-3ND3kc {
+    margin-left: 102%;
+    position: absolute;
+    height: 100%;
+    border-radius: 25px;
+}
+
+.root-SR8cQa {
+    overflow: visible;
+}
+
+.tabBarContainer-1s1u-z {
+    z-index: 1;
+}
+
+.guildNick-3uAm3i, .listName-3w10cx {
+    display: none;
+}
+
+.listRow-hutiT_ {
+    position: center;
+}
+
+.listAvatar-1NlAhb {
+    margin-right: 0;
+}
+
+.infoScroller-3EYYns {
+    width: auto;
+}
+
+.note-QfFU8y textarea {
+    width: 200px;
+}
+
+.topSectionPlaying-1J5E4n, .root-SR8cQa {
+    border-radius: 25px;
+}
+
+.lookFilled-1Gx00P .contents-18-Yxp, .lookInverted-2D7oAl .contents-18-Yxp, .lookLink-9FtZy- .contents-18-Yxp, .lookOutlined-3sRXeN .contents-18-Yxp {
+    color: white;
+}
+
+.streamPreviewWrapper-2DSWOK {
+    padding-left: 0px;
+}
+
+.lookInverted-2D7oAl.colorBrand-3pXr91:hover {
+    background-color: #3F778A;
+}
+
+.lookInverted-2D7oAl.colorBrand-3pXr91 {
+    background-color: var(--background-secondary);
+}
+
+.lookFilled-1Gx00P.colorGreen-29iAKY {
+    background-color: var(--background-secondary);
+}
+
+.lookFilled-1Gx00P.colorGreen-29iAKY:hover {
+        background-color: #3F778A;
+ }
+
+.topSectionNormal-2-vo2m {
+    height: 400px;
+    border-radius: 25px;
+}
+
+.topSectionNormal-2-vo2m .tabBarContainer-1s1u-z {
+        display: grid;
+ }
+
+.tabBar-2MuP6-, .tabBarItem-1b8RUP {
+    display: grid;
+}
+
+.tabBarContainer-1s1u-z {
+    height: 75px;
+    padding-top: 10px;
+}
+
+.infoScroller-3EYYns::-webkit-scrollbar {
+    display: none;
+}
+
+.modal-3c3bKg {
+    position: absolute;
+    width: 85%
+}
+
+.tabBarContainer-1s1u-z {
+    border-top: 0px;
+}
