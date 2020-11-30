@@ -39,7 +39,7 @@ theme-dark,
 
 /*Change watermark to Enola*/
 .wordmark-2iDDfm:after {
-    content: "Enola";
+    content: "MoronDev";
     font-size: 14px;
     font-weight: 700;
     white-space: nowrap;
