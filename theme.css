@@ -594,6 +594,31 @@ theme-dark,
     border-top: 0px;
 }
 
-.modal-3c3bKg {
-    margin-left: -8.75vw;
+.root-SR8cQa {
+    display: flex;
+    flex-direction: row;
+    width: auto;
+    background: transparent;
 }
+
+.modal-3c3bKg {
+    width: 100%;
+}
+
+.topSectionNormal-2-vo2m {
+    width: 600px;
+}
+
+.body-3ND3kc {
+    position: relative;
+    margin-left: 0;
+    max-width: 296px;
+    margin-left: 10px;
+    max-height: 400px;
+    overflow: hidden visible;
+}
+
+.body-3ND3kc::-webkit-scrollbar {
+        display: none;
+}
+
